@@ -1,7 +1,7 @@
 {
   "name": "github-peek",
   "private": true,
-  "homepage": "http://spaceark7.github.io/github-peek",
+  "homepage": "https://spaceark7.github.io/github-peek",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
