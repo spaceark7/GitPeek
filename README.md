@@ -2,6 +2,11 @@
 
 A web app for searching GitHub users with brief details at a glance.
 
+## Demo
+
+Live Demo
+https://git-peek.vercel.app/
+
 ## Features
 
 - Search related users by name
