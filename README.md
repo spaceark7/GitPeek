@@ -18,10 +18,11 @@ https://git-peek.vercel.app/
 Clone/download the source code. Go to directory where you save it then open terimal/VSCode
 
 ```bash
-  #npm install  / npm i
+  npm install  / npm i
 
   then
-  #npm run dev
+
+  npm run dev
   Now! it is running
 ```
 
